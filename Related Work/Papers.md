@@ -1,32 +1,32 @@
-Wesley Willett, Jeffrey Heer, and Maneesh Agrawala
-#	Scented Widgets: Improving Navigation Cues with Embedded Visualizations
+##	Scented Widgets: Improving Navigation Cues with Embedded Visualizations
+*Wesley Willett, Jeffrey Heer, and Maneesh Agrawala*
 
-Lauren Bradel, Chris North, Leanna House, Scotland Leman
-#	Multi-Model Semantic Interaction for Text Analytics
+##	Multi-Model Semantic Interaction for Text Analytics
+*Lauren Bradel, Chris North, Leanna House, Scotland Leman*
 
-Eric Alexander, Joe Kohlmann, Robin Valenza, Michael Witmore, and Michael Gleicher, Member, IEEE
-#	Serendip: Topic Model-Driven Visual Exploration of Text Corpora
+## Serendip: Topic Model-Driven Visual Exploration of Text Corpora
+*Eric Alexander, Joe Kohlmann, Robin Valenza, Michael Witmore, and Michael Gleicher, Member, IEEE*
 
-Dandan Huang, Melanie Tory, and Lyn Bartram
-#	Data in Everyday Life: Visualizing Time-Varying Data on a Calendar
+##	Data in Everyday Life: Visualizing Time-Varying Data on a Calendar
+*Dandan Huang, Melanie Tory, and Lyn Bartram*
 
-Björn Zimmer, Andreas Kerren
-#	Applying Heat Maps in a Web-Based Collaborative Graph Visualization
+##	Applying Heat Maps in a Web-Based Collaborative Graph Visualization
+*Björn Zimmer, Andreas Kerren*
 
-Kostiantyn Kucher, Andreas Kerren
-#	Text Visualization Browser: A Visual Survey of Text Visualization Techniques
+##	Text Visualization Browser: A Visual Survey of Text Visualization Techniques
+*Kostiantyn Kucher, Andreas Kerren*
 
-Chris K. Kim, Christopher Collins
-#	Lexichrome: Examining Word-Color Associations with Visualization
+##	Lexichrome: Examining Word-Color Associations with Visualization
+*Chris K. Kim, Christopher Collins*
 
-Richard Brath and Ebad Banissi
-#	The Design Space of Typeface
+##	The Design Space of Typeface
+*Richard Brath and Ebad Banissi*
 
-Pascal Goffin, Wesley Willett, Jean-Daniel Fekete, Petra Isenberg
-#	Exploring the Placement and Design of Word-Scale Visualizations
+##	Exploring the Placement and Design of Word-Scale Visualizations
+*Pascal Goffin, Wesley Willett, Jean-Daniel Fekete, Petra Isenberg*
 	https://hal.inria.fr/hal-01024278/document
 
-Aner Tal, Brian Wansink
-#	Blinded with science: Trivial graphs and formulas increase ad persuasiveness and belief in product efficacy
+##	Blinded with science: Trivial graphs and formulas increase ad persuasiveness and belief in product efficacy
+*Aner Tal, Brian Wansink*
 	http://pus.sagepub.com/content/early/2014/09/23/0963662514549688
 
