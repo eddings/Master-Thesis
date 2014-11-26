@@ -24,6 +24,9 @@
 ##	Lexichrome: Examining Word-Color Associations with Visualization
 *Chris K. Kim, Christopher Collins*
 
+## VarifocalReader — In-Depth Visual Analysis of Large Text Documents
+Koch, S. ; John, M. ; Worner, M. ; Muller, A. 
+
 # Type visualizations
 ##	The Design Space of Typeface
 *Richard Brath and Ebad Banissi*
