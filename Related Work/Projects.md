@@ -1,11 +1,11 @@
 # Legible Mathematics
-http://glench.com/LegibleMathematics/
+	http://glench.com/LegibleMathematics/
 
 # Interaktive Papers
-http://worrydream.com/#!/ScientificCommunicationAsSequentialArt
+	http://worrydream.com/#!/ScientificCommunicationAsSequentialArt
 
 # WordSeer – A Text Analysis Environment for Humanities Scholars
-http://wordseer.berkeley.edu/
+	http://wordseer.berkeley.edu/
 
 # Sparklificator
 	http://www.aviz.fr/Research/Sparklificator

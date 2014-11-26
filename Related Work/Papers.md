@@ -1,8 +1,8 @@
 Wesley Willett, Jeffrey Heer, and Maneesh Agrawala
-# Scented Widgets: Improving Navigation Cues with Embedded Visualizations
+#	Scented Widgets: Improving Navigation Cues with Embedded Visualizations
 
 Lauren Bradel, Chris North, Leanna House, Scotland Leman
-# Multi-Model Semantic Interaction for Text Analytics
+#	Multi-Model Semantic Interaction for Text Analytics
 
 Eric Alexander, Joe Kohlmann, Robin Valenza, Michael Witmore, and Michael Gleicher, Member, IEEE
 #	Serendip: Topic Model-Driven Visual Exploration of Text Corpora
@@ -27,6 +27,6 @@ Pascal Goffin, Wesley Willett, Jean-Daniel Fekete, Petra Isenberg
 	https://hal.inria.fr/hal-01024278/document
 
 Aner Tal, Brian Wansink
-# Blinded with science: Trivial graphs and formulas increase ad persuasiveness and belief in product efficacy
-http://pus.sagepub.com/content/early/2014/09/23/0963662514549688
+#	Blinded with science: Trivial graphs and formulas increase ad persuasiveness and belief in product efficacy
+	http://pus.sagepub.com/content/early/2014/09/23/0963662514549688
 
