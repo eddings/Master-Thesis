@@ -12,6 +12,9 @@
 Sparklificator is an open-source jQuery library that eases the process of integrating word-scale visualizations (including, but not limited to, sparklines) into HTML documents.
 	http://inria.github.io/sparklificator/
 
+## UTS Library Catalogue Graph
+	http://find.lib.uts.edu.au/
+
 ## VE5 – Where You Are
 	http://www.visual-editions.com/our-books/where-you-are
 	http://where-you-are.com/
