@@ -28,3 +28,21 @@ Visualisierung für Laien
 
 ## Revisiting bertin matrices: New interactions for crafting tabular visualizations (Charles Perin et al)
 »Visualisierung müssen auf die Interessenten des Lesers anpassbar sein.«
+
+## Interface Critism
+Christian Ulrik Andersen
+Das Interface als Schnittstelle für Diskurse der Medienwelt
+
+## Interfacing by Material Metaphors
+*Marianne van den Boomen*
+Signs und Tools verschmelzen - Signtools
+
+## Monoskop.org
+Forschung zu Digital Humanities
+
+## Zeichentheorie von Pierce
+Iconic – Ähnlichkeit
+Identifical - Reference to Object (Rauch - Feuer)
+Symbolic - Beziehung
+
+
