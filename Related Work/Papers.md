@@ -43,3 +43,11 @@ Koch, S. ; John, M. ; Worner, M. ; Muller, A.
 ## Towards Designing Persuasive Ambient Visualization
 *Andrew Vande Moere*
 	http://infoscape.org/publications/pervasive07_persuasive_display.pdf
+
+## SparkClouds: Visualizing Trends in Tag Clouds
+*Bongshin Lee*
+	http://www.computer.org/csdl/trans/tg/2010/06/ttg2010061182-abs.html
+	
+## Exploring the Placement and Design of Word-Scale Visualizations
+*Pascal Goffin, Wesley Willett, Jean-Daniel Fekete, Petra Isenberg*
+	https://hal.inria.fr/hal-01024278/document
