@@ -11,3 +11,9 @@ http://www.bundespraesident.de/SharedDocs/Reden/DE/Richard-von-Weizsaecker/Reden
 http://de.wikipedia.org/wiki/Zum_40._Jahrestag_der_Beendigung_des_Krieges_in_Europa_und_der_nationalsozialistischen_Gewaltherrschaft
 
 Bilderung: Alles was man wissen muss
+
+The Great Dictator’s Speech
+http://www.charliechaplin.com/en/synopsis/articles/29-The-Great-Dictator-s-Speech
+
+
+http://content.time.com/time/specials/packages/article/0,28804,1841228_1841749_1841743,00.html

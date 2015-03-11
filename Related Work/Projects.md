@@ -47,3 +47,12 @@ Kapow! asks readers to open and unfold pages, to follow text leaking in and out 
 
 A beautifully crafted object told in Thirlwell’s uniquely acrobatic voice, this is a visually immersive storytelling experience like no other.
 	http://www.visual-editions.com/our-books/kapow
+
+## Thatcher’s Falklands Legacy
+http://www.slow-journalism.com/infographic-thatchers-falklands-legacy
+
+## Interface Pattern
+https://developer.yahoo.com/ypatterns/about/start.html
+
+## Pinterest
+https://www.pinterest.com/arnicas/textvis/
