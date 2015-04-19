@@ -2,7 +2,8 @@
 
 Galileo used small images inside the text
 
-http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00004p
+http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg\_id=00004p
+[http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg\_id=00004p][1]
 
 —
 
@@ -34,7 +35,8 @@ Moby Dick
 
 http://vs13.kobv.de/V/44Y54LGGJ6FIL7E3R97QXE4RRI4UDIUX8UEMJYXUX9ABS4F21F-03729?func=meta-1&portal=KOBV&institute=KOBV&mode=advanced
 
-http://www.faganbooks.com/?page=shop/flypage&product_id=19655
+http://www.faganbooks.com/?page=shop/flypage&product\_id=19655
 
 http://www.fedpo.com/BookDetail.php?bk=232
 
+[1]:	http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00004p

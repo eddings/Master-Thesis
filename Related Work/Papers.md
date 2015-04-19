@@ -47,3 +47,28 @@ Koch, S. ; John, M. ; Worner, M. ; Muller, A.
 ## SparkClouds: Visualizing Trends in Tag Clouds
 *Bongshin Lee*
 	http://www.computer.org/csdl/trans/tg/2010/06/ttg2010061182-abs.html
+
+
+## Re-envisioning Reading and Writing Through Combined-Text Picture Books
+*Deborah Dean* andSirpa Grierson*
+http://onlinelibrary.wiley.com/doi/10.1598/JAAL.48.6.2/abstract
+
+## The Ecological Approach to Text Visualization
+
+*James A. Wise*
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.93.8319&rep=rep1&type=pdf
+
+## Text-Bild-Korrespondenz und Informationsvermittlung durch Fernsehnachrichten.
+*Brosius, Hans-Bernd*
+http://www.ls1.ifkw.uni-muenchen.de/forschung/publikationen/fz_artikel/text-bild-korrespond.html
+
+## Visualisierung von Fernsehnachrichten: Text-Bild-Beziehungen und ihre Bedeutung für die Informationsleistung.
+*Brosius, Hans-Bernd*
+http://www.ls1.ifkw.uni-muenchen.de/forschung/publikationen/sb_artikel/visualisierung_von_f.html
+
+## ## Pictorial enhancement of text memory: Limitations imposed by picture type and comprehension skill
+*PAULA J. WADDILL and MARK A. McDANIEL*
+
+## Effects of text illustrations: A review of research
+*W. Howard Levie, Richard Lentz*
+Verstorben
